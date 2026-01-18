@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ismail Anajar</h1>
 <h3 align="center">"I craft seamless digital experiences by bridging intuitive frontends with powerful backends.</h3>
 
-- 🔭 I’m currently working on [CMS Builder](https://page-builder-two.vercel.app/) [CMS Builder](https://awnup.ma)
+- 🔭 I’m currently working on [CMS Builder](https://page-builder-two.vercel.app/) [Service platform](https://awnup.ma)
 
 - 🌱 I’m currently learning **react native, docker**
 
