@@ -7,15 +7,11 @@
 
 - 🔭 I'm currently working on [Awnup – Service Marketplace](https://awnup.ma/fr) and [CMS Page Builder](https://page-builder-two.vercel.app/)
 
-- 🌱 I'm currently learning **React Native, Docker**
-
-- 👨‍💻 All of my projects are available at [ismail-anajar.vercel.app/#projects](https://ismail-anajar.vercel.app/#projects)
+- 🌱 I'm currently learning **React Native**
 
 - 💬 Ask me about **React.js, Next.js, TypeScript, Node.js, NestJS, PostgreSQL**
 
 - 📫 How to reach me: **ismailanajar52@gmail.com** • +212 633 308 351
-
-- 📄 Check out my full resume: [Ismail_Anajar_Resume.pdf](https://ismail-anajar.vercel.app/Ismail_Anajar_full%20stack%20developer_resume.pdf)
 
 - ⚡ Fun fact: **I speak both 'user' and 'server' fluently 😊**
 - 
