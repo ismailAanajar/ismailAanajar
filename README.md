@@ -52,6 +52,10 @@ Bachelor of Physics Science — Ibn Zohr University, Agadir, Morocco (2014 – 2
 ### 🌐 Languages
 Arabic (Native) • English (Conversational)
 
+### 📜 Certifications
+- [Claude Code in Action](https://verify.skilljar.com/c/f4zqfapu47c4)
+- [Claude 101](https://verify.skilljar.com/c/u36soxd4pjkc)
+
 ---
 
 <h3 align="left">Languages and Tools:</h3>
