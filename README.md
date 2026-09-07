@@ -18,6 +18,7 @@
 - 📄 Check out my full resume: [Ismail_Anajar_Resume.pdf](https://ismail-anajar.vercel.app/Ismail_Anajar_full%20stack%20developer_resume.pdf)
 
 - ⚡ Fun fact: **I speak both 'user' and 'server' fluently 😊**
+- 
 
 ---
 
