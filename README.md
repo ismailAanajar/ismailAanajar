@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Ismail Anajar</h1>
 <h3 align="center">"I craft seamless digital experiences by bridging intuitive frontends with powerful backends.</h3>
 
-- 🔭 I’m currently working on [CMS Builder](https://page-builder-two.vercel.app/) [Service platform](https://awnup.ma)
+- 🔭 I'm currently working on [CMS Builder](https://page-builder-two.vercel.app/) [Service platform](https://awnup.ma)
 
-- 🌱 I’m currently learning **react native, docker**
+- 🌱 I'm currently learning **react native, docker**
 
 - 👨‍💻 All of my projects are available at [https://ismail-anajar.vercel.app/#projects](https://ismail-anajar.vercel.app/#projects)
 
@@ -13,7 +13,7 @@
 
 - 📄 Know about my experiences [https://ismail-anajar.vercel.app/Ismail_Anajar_full%20stack%20developer_resume.pdf](https://ismail-anajar.vercel.app/Ismail_Anajar_full%20stack%20developer_resume.pdf)
 
-- ⚡ Fun fact **I speak both ‘user’ and ‘server’ fluently.😊**
+- ⚡ Fun fact **I speak both 'user' and 'server' fluently.😊**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -25,4 +25,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ismailaanajar&show_icons=true&locale=en&layout=compact" alt="ismailaanajar" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ismailaanajar&show_icons=true&locale=en" alt="ismailaanajar" /></p>
-
